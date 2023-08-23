@@ -133,5 +133,14 @@
         "location": "Edison, USA 🇺🇸",
         "GitHub": "https://github.com/AlandisAyupov",
         "text": "I want to play a game of airsoft."
+    },
+    {
+        "id": "Omar Sherif",
+        "image": "img/bid_image/YOUR_NAME.jpg",
+        "avatar": "img/avatar/YOUR_NAME.jpg",
+        "name": "Omar Sherif",
+        "location": "Alexandria, Egypt 🇪🇬",
+        "GitHub": "https://github.com/omarsherif74",
+        "text": "I hope I can travel and be a successful software engineer with my own company and be a good husband and father"
     }
 ]

@@ -120,5 +120,18 @@
       </a>
     </td>
     <!-- End of column -->
+
+  <!-- Start of column -->
+  <td align="center">
+    <a href="https://github.com/omarsherif74">
+      <img
+        src="https://avatars.githubusercontent.com/u/77518166?v=4"
+        width="100px"
+      />
+      <br />
+      <sub>Omar Sherif</sub>
+    </a>
+  </td>
+  <!-- End of column -->
   </tr>
 </table>
